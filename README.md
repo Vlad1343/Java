@@ -1,18 +1,28 @@
-## Getting Started
+# Java Practice Repository
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository serves as a learning and experimentation environment for Java.  
+It contains small project cases, code snippets, and exercises aimed at understanding  
+the fundamentals of the language and building a solid foundation in object-oriented programming.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Purpose
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Practice **core Java concepts** and syntax.
+- Experiment with **small projects and algorithms**.
+- Explore **OOP principles** like inheritance, polymorphism, and encapsulation.
+- Build familiarity with **Java development tools and environment setup**.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠 Topics Covered
 
-## Dependency Management
+- Basic syntax: variables, data types, operators, conditionals, loops  
+- Methods and parameter passing  
+- Object-Oriented Programming: classes, objects, constructors, inheritance, interfaces  
+- Exception handling and debugging  
+- Collections and generics  
+- File I/O and serialization  
+- Small project cases to practice problem-solving and code organization  
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
