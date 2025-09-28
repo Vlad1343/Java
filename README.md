@@ -2,7 +2,7 @@
 
 This repository serves as a learning and experimentation environment for Java.  
 It contains small project cases, code snippets, and exercises aimed at understanding  
-the fundamentals of the language and building a solid foundation in OOP
+the fundamentals of the language and building a solid foundation in OOP.
 
 ---
 
